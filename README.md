@@ -5,7 +5,7 @@
   <h2>Languages</h2>
   <ul>
     <li><a href="C">C solutions</a></li>
-    <li><a href="cpp">C++ solutions</a></li>
+    <li><a href="CPP">C++ solutions</a></li>
     <!--<li><a href="python">Python solutions</a></li>
     <li><a href="java">Java solutions</a></li>-->
   </ul>
