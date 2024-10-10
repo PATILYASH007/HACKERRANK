@@ -4,8 +4,10 @@
   <p>The repository is organized into folders📚, each representing a specific languages on HackerRank. Within each folder, you'll find subfolders for individual challenges, containing the solution code of that perticular problem.🫧</p>
   <h2>Languages</h2>
   <ul>
-    <li><a href="C">C solutions</a></li>
-    <li><a href="CPP">C++ solutions</a></li>
+    <li><a href="C" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></li>
+    <li><a href="CPP" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></li>
     <li>  <a href="PYTHON" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></li>
     <!--<a href="PYTHON">Python solutions</a>
